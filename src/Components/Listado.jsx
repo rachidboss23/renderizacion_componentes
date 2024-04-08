@@ -8,7 +8,7 @@ const Listado = ({ colaboradores, eliminarColaborador }) => {
         <tr>
           <th>ID</th>
           <th>Nombre</th>
-          <th>Correo</th>
+          <th>Correo Electronico</th>
           <th>Edad</th>
           <th>Cargo</th>
           <th>Telefono</th>

@@ -9,11 +9,11 @@ export const BaseColaboradores = [
     },
     {
       id: "2",
-      nombre: "Lucas Pailamilla",
+      nombre: "Lucas Pailamila",
       correo: "lucasp@colaborador.com",
-      edad: "31",
+      edad: "33",
       cargo: "Desarrollador Backend",
-      telefono: "88779955"
+      telefono: "88779956"
     },
     {
       id: "3",
