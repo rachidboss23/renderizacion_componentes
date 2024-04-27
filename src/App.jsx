@@ -40,7 +40,7 @@ function App() {
     
       {alerta && <Alert tipo={alerta.tipo} mensaje={alerta.mensaje} />}
       <Formulario agregarColaborador={agregarColaborador} />
-      {/* <Buscador colaboradores={colaboradores} setColaboradores={setColaboradores} /> */}
+       <Buscador colaboradores={colaboradores} setColaboradores={setColaboradores} /> 
       <Listado colaboradores={colaboradores} eliminarColaborador={eliminarColaborador} />
     </div>
   );
